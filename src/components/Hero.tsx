@@ -18,13 +18,16 @@ I love building clean and user-friendly web applications.
 Always learning and excited to work on meaningful projects.
           </p>
           <div className="flex flex-wrap gap-4">
-            <Button size="lg" className="rounded-full">
-              View Projects
-            </Button>
-            <Button size="lg" variant="outline" className="rounded-full">
-              Contact Me
-            </Button>
-          </div>
+  <a href="/resume.pdf" download>
+    <Button size="lg" className="rounded-full">
+      Resume
+    </Button>
+  </a>
+  <Button size="lg" variant="outline" className="rounded-full">
+    Contact Me
+  </Button>
+</div>
+
         </div>
         <div className="relative aspect-square w-full max-w-md mx-auto">
           <div className="absolute inset-0 bg-gradient-to-br from-purple-500/20 to-pink-500/20 rounded-full blur-3xl"></div>
