@@ -33,8 +33,8 @@ const About = () => {
           <div className="grid grid-cols-2 gap-4 pt-4">
             <div>
               <h4 className="text-primary font-medium mb-2">Education</h4>
-              <p className="text-foreground/80">B.S. Computer Science</p>
-              <p className="text-muted-foreground">University of Technology</p>
+              <p className="text-foreground/80">B.Tech in CSE</p>
+              <p className="text-muted-foreground">Vignan's Institute of Information Technology</p>
             </div>
             <div>
               <h4 className="text-primary font-medium mb-2">Experience</h4>
