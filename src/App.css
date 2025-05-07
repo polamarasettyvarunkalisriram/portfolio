@@ -4,10 +4,6 @@
   padding: 2rem;
   text-align: center;
 }
-/* styles.css or global.css */
-.three-d-text {
-  text-shadow: 2px 2px 0 #000, 4px 4px 0 #333;
-}
 
 .logo {
   height: 6em;
