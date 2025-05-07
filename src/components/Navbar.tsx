@@ -23,7 +23,7 @@ const Navbar = () => {
     >
       <nav className="flex items-center justify-between max-w-7xl mx-auto">
         <a href="#" className="text-2xl font-bold gradient-text">
-          Portfolio
+          PVK Sriram
         </a>
         <ul className="hidden md:flex gap-8">
           {["Projects", "About", "Skills", "Contact"].map((item) => (
