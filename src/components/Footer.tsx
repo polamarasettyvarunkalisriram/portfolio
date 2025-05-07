@@ -36,20 +36,7 @@ const Footer = () => {
               ))}
             </ul>
           </div>
-          <div>
-            <h3 className="font-semibold mb-4">Newsletter</h3>
-            <p className="text-foreground/70 mb-4">
-              Subscribe to receive updates on new projects and articles.
-            </p>
-            <div className="flex gap-2">
-              <input
-                type="email"
-                placeholder="Your email"
-                className="px-4 py-2 rounded bg-background border border-border/40 focus:outline-none focus:ring-2 focus:ring-primary/50 flex-grow"
-              />
-              <Button>Subscribe</Button>
-            </div>
-          </div>
+         
         </div>
         <div className="border-t border-border/40 mt-8 pt-8 text-center text-foreground/60">
           <p>&copy; {year} Portfolio. All rights reserved.</p>
