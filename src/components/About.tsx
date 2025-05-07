@@ -10,9 +10,14 @@ const About = () => {
           <CardContent className="p-0">
             <div className="aspect-square w-full overflow-hidden">
               {/* Replace with an actual image */}
-              <div className="w-full h-full bg-gradient-to-br from-purple-500/80 to-pink-500/80 flex items-center justify-center">
-                <span className="text-4xl text-white">Your Photo</span>
-              </div>
+              <div className="relative w-full h-full rounded-full overflow-hidden border-4 border-muted">
+  <img 
+    src="/lovable-uploads/IMG_5002.JPG"
+    alt="PVK Sriram"
+    className="w-full h-full object-cover"
+  />
+</div>
+
             </div>
           </CardContent>
         </Card>
