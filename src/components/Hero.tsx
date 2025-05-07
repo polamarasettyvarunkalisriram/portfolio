@@ -6,7 +6,7 @@ const Hero = () => {
     <section id="hero" className="min-h-screen flex items-center justify-center pt-20 section">
       <div className="grid md:grid-cols-2 gap-12 items-center">
         <div className="space-y-6">
-        <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white drop-shadow-[2px_2px_0px_rgba(0,0,0,0.4)]">
+       <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white drop-shadow-[2px_2px_0px_rgba(0,0,0,0.4)]">
   Hi, I'm <span className="gradient-text drop-shadow-[2px_2px_0px_rgba(0,0,0,0.5)]">PVK Sriram</span>
 </h1>
 
