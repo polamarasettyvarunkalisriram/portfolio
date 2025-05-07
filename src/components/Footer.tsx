@@ -11,15 +11,27 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-bold gradient-text mb-4">Portfolio</h3>
             <p className="text-foreground/70 mb-6">
-              Creating beautiful digital experiences with code and design.
-            </p>
+            Passionate full stack developer crafting clean and user-friendly web experiences.
+
+</p>
             <div className="flex gap-4">
-              {["Twitter", "GitHub", "LinkedIn"].map((platform) => (
-                <Button key={platform} size="sm" variant="ghost" className="px-2.5">
-                  {platform}
-                </Button>
-              ))}
-            </div>
+  {[
+    { name: "GitHub", url: "https://github.com/polamarasettyvarunkalisriram" },
+    { name: "LinkedIn", url: "https://www.linkedin.com/in/polamarasetty-varun-kali-sriram-6a07ab1aa/" }
+  ].map((platform) => (
+    <a
+      key={platform.name}
+      href={platform.url}
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <Button size="sm" variant="ghost" className="px-2.5">
+        {platform.name}
+      </Button>
+    </a>
+  ))}
+</div>
+
           </div>
           <div>
             <h3 className="font-semibold mb-4">Quick Links</h3>

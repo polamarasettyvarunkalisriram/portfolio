@@ -23,9 +23,12 @@ Always learning and excited to work on meaningful projects.
       Resume
     </Button>
   </a>
+  <a href="#contact">
   <Button size="lg" variant="outline" className="rounded-full">
     Contact Me
   </Button>
+</a>
+
 </div>
 
 
