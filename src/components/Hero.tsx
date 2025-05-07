@@ -6,18 +6,9 @@ const Hero = () => {
     <section id="hero" className="min-h-screen flex items-center justify-center pt-20 section">
       <div className="grid md:grid-cols-2 gap-12 items-center">
         <div className="space-y-6">
-          <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white">
-  Hi, I'm{" "}
-  <span
-    className="gradient-text inline-block transition-transform duration-500 hover:translate-x-1 hover:-translate-y-1 hover:drop-shadow-[3px_3px_0_rgba(0,0,0,0.5)]"
-  >
-    PVK Sriram
-  </span>
-</h1>
-<h1 className="text-5xl md:text-6xl lg:text-7xl font-bold">
-  Hi, I'm <span className="name-3d">PVK Sriram</span>
-</h1>
-
+          <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold">
+            Hi, I'm <span className="gradient-text">PVK Sriram</span>
+          </h1>
           <h2 className="text-2xl md:text-3xl text-foreground/70">
             Full Stack Developer
           </h2>
