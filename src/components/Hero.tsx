@@ -13,8 +13,9 @@ const Hero = () => {
             Full Stack Developer
           </h2>
           <p className="text-lg text-muted-foreground">
-            I craft beautiful, functional digital experiences with a focus on 
-            user interaction and responsive design.
+          I'm a recent graduate with a passion for full stack development.
+I love building clean and user-friendly web applications.
+Always learning and excited to work on meaningful projects.
           </p>
           <div className="flex flex-wrap gap-4">
             <Button size="lg" className="rounded-full">

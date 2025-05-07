@@ -14,7 +14,7 @@ const Footer = () => {
               Creating beautiful digital experiences with code and design.
             </p>
             <div className="flex gap-4">
-              {["Twitter", "GitHub", "LinkedIn", "Dribbble"].map((platform) => (
+              {["Twitter", "GitHub", "LinkedIn"].map((platform) => (
                 <Button key={platform} size="sm" variant="ghost" className="px-2.5">
                   {platform}
                 </Button>

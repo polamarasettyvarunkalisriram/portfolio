@@ -19,17 +19,14 @@ const About = () => {
         <div className="space-y-6">
           <h3 className="text-2xl font-semibold gradient-text">Who I Am</h3>
           <p className="text-foreground/80 leading-relaxed">
-            I'm a passionate developer and designer with over 5 years of experience creating 
-            digital solutions for clients across various industries. 
-            My journey in tech began with a curiosity about how things work, 
-            which evolved into a career building beautiful and functional applications.
-          </p>
-          <p className="text-foreground/80 leading-relaxed">
-            I specialize in creating responsive web applications with modern frameworks, 
-            focusing on clean code and intuitive user experiences. 
-            When I'm not coding, you can find me exploring new design trends, 
-            contributing to open-source projects, or hiking in the mountains.
-          </p>
+  I'm a passionate Full Stack Developer with 1 year of experience building dynamic and responsive web applications. 
+  My journey in tech started with a deep curiosity for how software works, which quickly evolved into a drive to create powerful digital solutions.
+</p>
+<p className="text-foreground/80 leading-relaxed">
+  I specialize in using modern frameworks like React and Node.js, with a focus on clean, maintainable code and seamless user experiences. 
+  Outside of coding, I enjoy exploring UI/UX design trends, contributing to open-source projects, and staying active outdoors.
+</p>
+
           <div className="grid grid-cols-2 gap-4 pt-4">
             <div>
               <h4 className="text-primary font-medium mb-2">Education</h4>
@@ -38,8 +35,8 @@ const About = () => {
             </div>
             <div>
               <h4 className="text-primary font-medium mb-2">Experience</h4>
-              <p className="text-foreground/80">Senior Developer</p>
-              <p className="text-muted-foreground">Creative Solutions Inc.</p>
+              <p className="text-foreground/80">Junior Developer</p>
+              {/* <p className="text-muted-foreground">Creative Solutions Inc.</p> */}
             </div>
           </div>
         </div>
