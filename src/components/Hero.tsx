@@ -18,7 +18,7 @@ I love building clean and user-friendly web applications.
 Always learning and excited to work on meaningful projects.
           </p>
           <div className="flex flex-wrap gap-4">
-  <a href="/resume.pdf" download>
+  <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
     <Button size="lg" className="rounded-full">
       Resume
     </Button>
@@ -27,6 +27,7 @@ Always learning and excited to work on meaningful projects.
     Contact Me
   </Button>
 </div>
+
 
         </div>
         <div className="relative aspect-square w-full max-w-md mx-auto">
