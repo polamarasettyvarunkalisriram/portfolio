@@ -20,10 +20,10 @@ const Contact = () => {
               <div>
                 <h4 className="text-lg font-medium">Email</h4>
                 <a
-                  href="mailto:hello@example.com"
+                  href="mailto:srirampksrirampk@gmail.com"
                   className="text-foreground/70 hover:text-primary transition-colors"
                 >
-                  hello@example.com
+                  srirampksrirampk@gmail.com
                 </a>
               </div>
             </div>
@@ -34,10 +34,10 @@ const Contact = () => {
               <div>
                 <h4 className="text-lg font-medium">Phone</h4>
                 <a
-                  href="tel:+11234567890"
+                  href="tel:+919398171713"
                   className="text-foreground/70 hover:text-primary transition-colors"
                 >
-                  +1 (123) 456-7890
+                  +91 9398171713
                 </a>
               </div>
             </div>
@@ -48,7 +48,7 @@ const Contact = () => {
               <div>
                 <h4 className="text-lg font-medium">Location</h4>
                 <p className="text-foreground/70">
-                  San Francisco, CA
+                  Visakhapatnam, Andhra Pradesh
                 </p>
               </div>
             </div>
