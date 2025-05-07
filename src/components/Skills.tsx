@@ -5,16 +5,16 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 const Skills = () => {
   const skillCategories = [
     {
+      title: "Programming",
+      skills: ["Python, C, JavaScript"],
+    },
+    {
       title: "Frontend Development",
-      skills: ["React", "TypeScript", "Next.js", "Tailwind CSS", "HTML/CSS", "JavaScript"],
+      skills: ["HTML/CSS","Angular","React", "TypeScript", "Next.js","Bootstrap" ],
     },
     {
       title: "Backend Development",
       skills: ["Node.js", "Express", "mysql", "MongoDB", "Firebase", "RESTful APIs", "Postman"],
-    },
-    {
-      title: "Design",
-      skills: ["Figma", "UI/UX Design", "Responsive Design"],
     },
     {
       title: "Tools & Others",
