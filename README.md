@@ -10,8 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/7e3e7b90-d53e-4e61-83d7-7e99437077bf) and start prompting.
-
+https://preview--aspect-loom-portfolio.lovable.app/
 Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
