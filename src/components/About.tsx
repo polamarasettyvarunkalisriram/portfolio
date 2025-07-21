@@ -40,8 +40,9 @@ const About = () => {
             </div>
             <div>
               <h4 className="text-primary font-medium mb-2">Experience</h4>
-              <p className="text-foreground/80">Junior Developer</p>
-              {/* <p className="text-muted-foreground">Creative Solutions Inc.</p> */}
+              <p className="text-foreground/80">Full Stack Developer</p>
+              <p className="text-muted-foreground">1+ Years Experience</p>
+              <p className="text-sm text-muted-foreground mt-1">React, Node.js, JavaScript, TypeScript</p>
             </div>
           </div>
         </div>
