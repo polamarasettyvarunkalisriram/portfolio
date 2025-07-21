@@ -18,7 +18,7 @@ I love building clean and user-friendly web applications.
 Always learning and excited to work on meaningful projects.
           </p>
           <div className="flex flex-wrap gap-4">
-  <a href="https://drive.google.com/file/d/1nyw44eMHi2CAPUdIUETQ-rYUvVp6NIH7/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1RrOr1nHWGGnQJkYfpklX5AQTBRv6ltWT/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
     <Button size="lg" className="rounded-full">
       Resume
     </Button>
