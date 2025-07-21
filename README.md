@@ -2,7 +2,8 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/7e3e7b90-d53e-4e61-83d7-7e99437077bf
+**URL**:https://preview--aspect-loom-portfolio.lovable.app/
+
 
 ## How can I edit this code?
 
