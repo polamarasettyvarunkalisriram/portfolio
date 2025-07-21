@@ -18,7 +18,7 @@ I love building clean and user-friendly web applications.
 Always learning and excited to work on meaningful projects.
           </p>
           <div className="flex flex-wrap gap-4">
-  <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/drive/folders/1z_IlYS-2OPqlmg2ENAhYX_Odvl3sBGv9" target="_blank" rel="noopener noreferrer">
     <Button size="lg" className="rounded-full">
       Resume
     </Button>
